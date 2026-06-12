@@ -7,7 +7,7 @@ Eclipse Of Ashes é um jogo de plataforma 2D desenvolvido na Unity 6. O jogador 
 
 ## Fase 1 - Ruínas Antigas
 
-![Fase 1](Imagens/fase1.png)
+![Fase 1](fase1.png)
 
 Nesta fase o jogador aprende as mecânicas básicas de movimentação, combate e coleta de cristais.
 
@@ -15,7 +15,7 @@ Nesta fase o jogador aprende as mecânicas básicas de movimentação, combate e
 
 ## Fase 2 - Terras Congeladas
 
-![Fase 2](Imagens/fase2.png)
+![Fase 2](fase2.png)
 
 Após coletar todos os cristais da Fase 1, o jogador desbloqueia a Super Lança.
 
@@ -23,7 +23,7 @@ Após coletar todos os cristais da Fase 1, o jogador desbloqueia a Super Lança.
 
 ## Fase 3 - Montanha do Chefe Final
 
-![Fase 3](Imagens/fase3.png)
+![Fase 3](fase3.png)
 
 Nesta fase o jogador enfrenta os Dinossauros Gigante. Ao coletar todos os cristais das três fases, o Laser é desbloqueado.
 
@@ -31,7 +31,7 @@ Nesta fase o jogador enfrenta os Dinossauros Gigante. Ao coletar todos os crista
 
 ## Tela de Vitória
 
-![Tela de Vitória](Imagens/vitoria.png)
+![Tela de Vitória](vitoria.png)
 
 O jogador vence após derrotar o chefe final e completar todos os objetivos.
 
