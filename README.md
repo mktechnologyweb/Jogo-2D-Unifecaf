@@ -59,7 +59,7 @@ O jogador vence após derrotar o chefe final e completar todos os objetivos.
 | A / D | Mover |
 | Espaço | Pular |
 | Mouse Esquerdo | Atacar |
-| Q | Disparar Laser |
+| CTRL | Disparar Laser |
 
 ---
 
